@@ -4,13 +4,19 @@ This document outlines a lab setup for demonstrating a misconfiguration in Activ
 
 ---
 
-## 🔧 Lab Configuration
+##  Lab Configuration
 
 - **Domain Name**: `furios.local`
 - **Domain Controller**: `DC01-FURIOUS5`
-- **Users**:
-  - `mostlyuser` - a regular domain user
-  - `jack` - Password: `complex1@`
-  - `sql_user` - Password: `complex10@`
+
+### Users
+
+- `mostlyuser` – Regular domain user  
+- `jack` – Password: `complex1@`  
+- `sql_user` – Password: `complex10@`  
 
 ---
+
+##  Certificate Authority
+
+- **Certificate Server**: `CA-FURIOUS.local`
