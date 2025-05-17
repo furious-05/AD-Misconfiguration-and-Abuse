@@ -12,7 +12,7 @@ Let’s suppose we have the credentials of user **Haseeb**:
 - **Username**: `Haseeb`
 - **Password**: `Password123`
 
-And `Haseeb` has a **WriteOwner** on another user: **Domain Admins**.
+And `Haseeb` has a **WriteOwner** on another group: **Domain Admins**.
 
 ## Setting Up a Misconfiguration
 
@@ -38,7 +38,7 @@ Here, add user **Haseeb** and click **OK**:
 
 ### Modify Permissions
 
-Now go to the **Advanced** option of user **Domain Admins** and edit permissions for user **Haseeb**:
+Now go to the **Advanced** option of group **Domain Admins** and edit permissions for user **Haseeb**:
 
 <img src="Imgs/image5.png" alt="Error loading Image" />
 
