@@ -1,4 +1,6 @@
-### 🔧 **What is Responder?**
+# 🔐 Responder
+
+###  **What is Responder?**
 Responder is an **LLMNR, NBT-NS, and MDNS poisoner** — meaning it listens for broadcast name resolution requests and responds to them with fake data, tricking machines into sending sensitive information (like hashes).
 
 ---

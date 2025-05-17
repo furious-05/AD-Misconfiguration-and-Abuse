@@ -1,6 +1,6 @@
-# Pass the Hash (PtH) Attack Guide
+# 🔐 Pass the Hash (PtH) 
 
-## What is Pass the Hash?
+### What is Pass the Hash?
 
 **Pass the Hash (PtH)** is a technique where an attacker uses the **NT hash** of a user's password to authenticate to services without needing the plaintext password. This works because NTLM (Windows authentication protocol) accepts the hash itself for login.
 
