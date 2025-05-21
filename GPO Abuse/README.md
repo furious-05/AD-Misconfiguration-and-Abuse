@@ -191,9 +191,9 @@ Impacket v0.12.0 - Copyright Fortra, LLC and its affiliated companies
 [*] Starting service RemoteRegistry
 [*] Target system bootKey: 0x40dc74d52a81d056f488d800be5a2f7c
 [*] Dumping local SAM hashes (uid:rid:lmhash:nthash)
-Administrator:500:aad3b435b51404eeaad3b435b51404ee:f1c3f58541c936fd550482ec578f102e:::
-Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
-DefaultAccount:503:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+Administrator:500:*********51404eeaad3b435b51404ee:***********936fd550482ec578f102e:::
+Guest:501:*******51404eeaad3b435b51404ee:**********ae931b73c59d7e0c089c0:::
+DefaultAccount:503:*********b51404eeaad3b435b51404ee:*******16ae931b73c59d7e0c089c0:::
 [-] SAM hashes extraction for user WDAGUtilityAccount failed. The acc
 ```
 
