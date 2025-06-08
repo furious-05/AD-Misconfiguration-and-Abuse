@@ -157,3 +157,15 @@ Get-ADUser -Identity "test"
 Verifies that the recovered user (`test`) now exists again in Active Directory.
 
 <img src="Imgs/image4.png" alt="Error loading image" />
+
+
+
+##  Impact of Tombstoned Account Recovery
+
+Recovering a tombstoned (soft-deleted) account can be **dangerous** in several ways. For example, if the deleted user was a **privileged account** such as a Domain Administrator, restoring it can give an attacker **immediate elevated access** to the Active Directory environment.
+
+Additionally, if the recovered user had **delegated permissions** (e.g., rights over other users, groups, or systems), this can be exploited to perform further **Active Directory exploitation techniques**—such as privilege escalation, lateral movement, or Kerberoasting.
+
+An attacker who regains access to a tombstoned user can chain this with **other AD-based attacks**, making tombstoned object enumeration a **valuable technique** during post-exploitation.
+
+
