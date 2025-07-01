@@ -40,7 +40,7 @@ Download the following:
 | Role              | OS                          | Source                                                                                                         |
 | ----------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Domain Controller | Windows Server 2019 or 2022 | [Window Server 2022](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)         |
-| Client Machine    | Windows 10 or 11            | [Microsoft Developer VMs](https://www.microsoft.com/en-us/software-download/windows11)          |
+| Client Machine    | Windows 10 or 11            | [Window 11 Desktop](https://www.microsoft.com/en-us/software-download/windows11)          |
 | Attacker Machine  | Kali Linux or Parrot OS     | [Kali Linux](https://www.kali.org/get-kali/) or [Parrot OS](https://www.parrotsec.org/)                        |
 
 ---
