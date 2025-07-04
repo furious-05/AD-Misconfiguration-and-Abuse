@@ -62,6 +62,8 @@ Below is the logical layout of your AD lab network:
 
 ## ⚙️ Step-by-Step Setup Guide
 
+### Home Lab Setup
+
 To simplify the setup process, you can follow this excellent video guide by **Jim Schultz**:
 
 [![Watch the setup video](https://img.youtube.com/vi/aqA6bktFHoY/0.jpg)](https://youtu.be/aqA6bktFHoY)
@@ -69,6 +71,18 @@ To simplify the setup process, you can follow this excellent video guide by **Ji
 🎥 **[How to Set Up an Active Directory Home Lab – Jim Schultz](https://youtu.be/aqA6bktFHoY?si=0i3Fo3pSMD3RZsWm)**
 
 This video walks through VM creation, Windows Server configuration, domain promotion, and domain join processes.
+
+###  Certificate Authority on Domain Controller
+
+In our home lab, we’ll install the Certificate Authority (CA) on the same machine as the Domain Controller for simplicity.
+
+To install the CA role, follow this video guide by **Andy Malone**:
+
+[![Watch the video](https://img.youtube.com/vi/R4mrcju5wec/0.jpg)](https://www.youtube.com/watch?v=R4mrcju5wec&t=110s)
+
+🎥 **[Installing Certificate Services – Andy Malone](https://www.youtube.com/watch?v=R4mrcju5wec&t=110s)**
+
+This video explains how to set up a basic CA in a Windows environment, which is ideal for lab purposes.
 
 ---
 
