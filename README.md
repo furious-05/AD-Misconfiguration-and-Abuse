@@ -34,7 +34,8 @@ This section contains a detailed guide for creating your own Active Directory la
 
 ### 🔐 [Active Directory Concepts](./ActiveDirectory%20Concept/TomeStoned)
 - **[Tombstoned Object Abuse](./ActiveDirectory%20Concept/TomeStoned)**
-
+- **[Timeroasting](./ActiveDirectory%20Concept/Timeroasting)**
+  
 ### 🎓 [ADCS Abuse (Active Directory Certificate Services)](./ADCS)
 - **[ESC1](./ADCS/ADCS-ESC1)**
 - **[ESC2](./ADCS/ADCS-ESC2)**
