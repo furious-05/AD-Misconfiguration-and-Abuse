@@ -52,6 +52,7 @@ This section contains a detailed guide for creating your own Active Directory la
 - **[ReadLAPSPassword](./DACL%20abuse/ReadLAPSPassword)**
 - **[WriteDACL](./DACL%20abuse/WriteDACL)**
 - **[WriteOwner](./DACL%20abuse/WriteOwner)**
+- **[WriteScriptPath](./DACL%20abuse/WriteScriptPath/)**
 
 ### 🧠 [GPO Abuse (Group Policy Objects)](./GPO%20Abuse)
 - **[GPO Misuse Techniques](./GPO%20Abuse)**
