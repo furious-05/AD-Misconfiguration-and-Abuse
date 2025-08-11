@@ -42,6 +42,7 @@ This section contains a detailed guide for creating your own Active Directory la
 - **[ESC3](./ADCS/ADCS-ESC3)**
 - **[ESC4](./ADCS/ADCS-ESC4)**
 - **[ESC6](./ADCS/ADCS-ESC6)**
+- **[ESC10](./ADCS/ADCS-ESC10)**
 - **[ESC14](./ADCS/ADCS-ESC14)**
 - **[ESC15](./ADCS/ADCS-ESC15)**
 - **[ESC16](./ADCS/ADCS-ESC16)**
