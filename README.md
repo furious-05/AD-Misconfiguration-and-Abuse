@@ -62,6 +62,7 @@ This section contains a detailed guide for creating your own Active Directory la
 - **[ASREPRoasting](./Kerbrose/ASREProasting)**
 - **[Kerberoasting](./Kerbrose/Kerbroasting)**
 - **[Silver Ticket](./Kerbrose/SilverTicket)**
+- **[Shadow Credential](./Kerbrose/ShadowCredential)**
 
 ### 🔄 [NTLM Attacks](./NTLM)
 - **[Pass the Hash](./NTLM/PassTheHash)**
